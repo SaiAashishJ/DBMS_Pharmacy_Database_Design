@@ -30,7 +30,7 @@ The following entities are represented as relational tables:
 - **Pharmacy_Drug**: Drug availability and price at each pharmacy  
 - **Contract**: Contracts between pharma companies and pharmacies  
 
-![Database Design:](Design)
+![Database Design:](Design.jpeg)
 
 ### Stored Procedures
 
